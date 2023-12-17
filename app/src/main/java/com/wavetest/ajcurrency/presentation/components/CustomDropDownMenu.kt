@@ -20,17 +20,7 @@ import androidx.compose.ui.unit.dp
 import com.wavetest.ajcurrency.domain.vos.CurrencyVo
 import com.wavetest.ajcurrency.domain.vos.RateVo
 
-@Composable
-fun CustomDropDownMenu() {
 
-    Row {
-
-    }
-
-}
-/*{
-    isExpand = it
-}*/
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
